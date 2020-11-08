@@ -37,7 +37,7 @@
   max-width: 700px;
 }
 
-.header__meanu-item {
+.header__menu-item {
   text-decoration: none;
   font-size: 17px;
   text-transform: uppercase;
@@ -48,7 +48,7 @@
   transition: all 0.3s cubic-bezier(0.61, 1, 0.88, 1);
 }
 
-.header__meanu-item:hover {
+.header__menu-item:hover {
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
           box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
